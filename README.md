@@ -1,3 +1,4 @@
 # NavigationView
-![image](https://user-images.githubusercontent.com/107895582/216540062-b447dede-1bf1-4b30-bf7c-957c2d1326e3.png)
-![image](https://user-images.githubusercontent.com/107895582/216540079-32831d9b-8716-4309-8e47-681798dcac00.png)
+![image](https://github.com/emilymirand/NavigationViewGrupal/assets/125322859/d591344a-4f80-4e72-a850-d0ff34beb628)
+![image](https://github.com/emilymirand/NavigationViewGrupal/assets/125322859/866852c5-4b56-4824-80c4-c62edfb1a9c3)
+
