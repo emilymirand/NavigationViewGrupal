@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name"></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todos_los_recibidos">Todos los recibidos</string>
+    <string name="borradores">Borradores</string>
+    <string name="recibidos">Recibidos</string>
+    <string name="destacados">Destacados</string>
+    <string name="no_leidos">No Leidos</string>
+    <string name="todas_las_etiquetas">TODAS LAS ETIQUETAS</string>
+    <string name="enviados">Enviados</string>
+    <string name="archivo">Archivo</string>
+    <string name="notes">Notes</string>
+    <string name="apps_de_google">APPS DE GOOGLE</string>
+    <string name="calendario">Calendario</string>
+    <string name="contactos">Contactos</string>
+    <string name="configuraci_n">Configuración</string>
+</resources>

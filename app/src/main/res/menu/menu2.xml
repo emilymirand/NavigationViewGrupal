@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_seccion_1"
+            android:icon="@drawable/icontodosrecibidos"
+            android:iconTint="#FFFFFF"
+            android:title="@string/todos_los_recibidos" />
+        <item
+            android:id="@+id/menu_seccion_2"
+            android:icon="@drawable/iconrecibidos"
+            android:title="@string/recibidos"
+            android:visible="true" />
+    </group>
+
+    <item
+        android:id="@+id/navigation_subheader"
+        android:title="@string/todas_las_etiquetas"
+        >
+        <menu>
+            <item
+                android:id="@+id/menu_opcion_1"
+                android:icon="@drawable/icondestacados"
+                android:title="@string/destacados" />
+            <item
+                android:id="@+id/menu_opcion_2"
+                android:icon="@drawable/iconnoleidos"
+                android:title="@string/no_leidos" />
+            <item
+                android:icon="@drawable/iconborradores"
+                android:title="@string/borradores" />
+            <item
+                android:icon="@drawable/iconenviados"
+                android:title="@string/enviados" />
+            <item
+                android:icon="@drawable/iconarchivo"
+                android:title="@string/archivo" />
+            <item
+                android:icon="@drawable/iconnotes"
+                android:title="@string/notes" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/appgoogle"
+        android:title="@string/apps_de_google">
+        <menu>
+            <item
+                android:icon="@drawable/iconcalendario"
+                android:title="@string/calendario" />
+            <item
+                android:icon="@drawable/iconcontactos"
+                android:title="@string/contactos" />
+            <item
+                android:icon="@drawable/iconconfiguracion"
+                android:title="@string/configuraci_n" />
+        </menu>
+    </item>
+</menu>
+
